@@ -50,6 +50,7 @@ img{
 .description{
     color: hsl(220, 15%, 55%);
     text-align: center;
+    padding-bottom: 0.3rem;
 }
 
 .attribution{
