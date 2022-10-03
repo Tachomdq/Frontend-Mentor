@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Tachomdq/tachomdq.github.io)
-- Live Site URL: [Add live site URL here](https://tachomdq.github.io/)
+- Solution URL: [GitHub repository](https://github.com/Tachomdq/tachomdq.github.io)
+- Live Site URL: [GitHub Pages](https://tachomdq.github.io/)
 
 ## My process
 
